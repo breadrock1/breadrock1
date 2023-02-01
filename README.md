@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bread White</h1>
 
-## 💫 About Me:
-I'm a man of varied attainments which trying envolving into system programming sphere. In total, I have been in the IT about 5 years during which I developed a tools for static / dynamic code analysis.
-</br>
+I'm a man of varied attainments which trying envolving into **system programming** sphere. In total, I have been in the IT about 5 years during which I developed a tools for **static / dynamic** code analysis.
+
+- 🌈  I'm currently working at home. 😎
+- 🌱  I’m currently learning `Rustlang`
+- 🤔  I’m currently using `Rust` `Java/Groovy` `Python` `C\C++` `Bash` 😁
+- ✈️  Open to Remote Job Opportunities 🍻
+- 💬  Ask me about fuzzing and code analysis!
+- ⚡   Fun fact: There is no fun! Just writing code and drinking coffee 24/7 only 😎👌
+- 👁️  Let's see visitors amount: ![Github](https://komarev.com/ghpvc/?username=breadrock1&style=plastic)
 
 
 ## 💻 Tech Stack:
+
 <table><tr><td valign="top" width="33%">
 
 #### Languages
@@ -106,55 +113,68 @@ I'm a man of varied attainments which trying envolving into system programming s
 </div>
 
 </td></tr></table>
-</br>
 
 
-## 📊 GitHub Stats:
+## 🧮 GitHub Stats:
+
 <div align="center">
-
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breadrock1&" alt="" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" alt="" />  
+  <a href="https://raw.githubusercontent.com/breadrock1/breadrock1/output/github-contribution-grid-snake.svg" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/breadrock1/breadrock1/output/github-contribution-grid-snake.svg" />
+  </a>
 </div>
+
 </br>
+
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breadrock1&hide=language1&show_icons=true&locale=en&layout=compact" alt="" />
+  <a href="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" rel="noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" />
+  </a>
+  
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=breadrock1&show_icons=true&locale=en" rel="noreferrer">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=breadrock1&show_icons=true&locale=en" />
+  </a>
 </div>
 
-</div>
 </br>
 
-
-## 👤 Some stuff 
-
-<div>
-  <div>
-  - 🌱  I’m currently learning <b>Rustlang</b>
-  </div>
-  <div>
-  - 👯  I’m looking to collaborate and meetings!
-  </div>
-  <div>
-  - 💬  Ask me about fuzzing and code analysis!
-  </div>
-  <div>
-  - ✌🏻  There are several publications: <a href="https://www.ispras.ru/publications/">ISPRAS</a>
-  </div>
-  <div>
-  - ⚡   Fun fact: There is no fun! Just writing code and drinking coffee 24/7 only 😎👌
-  </div>
+<div align="center">
+  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&hide=Jupyter%20Notebook&hide_border=true&layout=compact" width="400" />
+  </a>
 </div>
+
+
+## 🏡 Working at now
+
+<div align="center">
+  <a href="https://github.com/breadrock1/CVLDetector">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=CVLDetector&theme=buefy" />
+  </a>
+  
+  <a href="https://github.com/breadrock1/rlisp">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=rlisp&theme=buefy" />
+  </a>
+</div>
+
 </br>
+
+<div align="center">
+  <a href="https://github.com/breadrock1/simplify-decorators">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" />
+  </a>
+</dib>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=breadrock1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</br>
 
-
-## 📫 Connect with me:
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+
+## 📩 Contacts:
+
+<div align="center" width=100>
   <a href="https://github.com/breadrock1" target="_blank">
   <img src=https://img.shields.io/badge/github-breadrock1-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
@@ -175,12 +195,7 @@ I'm a man of varied attainments which trying envolving into system programming s
   <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=plastic&logo=buymeacoffee" alt="buymeacoffee" />
   </a>
 </div>
-</br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=breadrock1&style=plastic&color=blue" />
-</div>
-</br>
 
 ---
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
