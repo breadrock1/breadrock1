@@ -194,6 +194,10 @@ I'm a man of varied attainments which trying envolving into **system programming
   <a href="https://www.buymeacoffee.com/breadrock1Y" target="_blank" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=plastic&logo=buymeacoffee" alt="buymeacoffee" />
   </a>
+
+  <a href="https://leetcode.com/breadrock1" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/LeetCode-breadrock1-000000?style=plastice&logo=LeetCode" alt="buymeacoffee" />
+  </a>
 </div>
 
 
