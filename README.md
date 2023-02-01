@@ -139,7 +139,7 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center">
   <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" width="320" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" width="320" />
   </a>
 </div>
 
@@ -148,11 +148,13 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center">
   <a href="https://github.com/breadrock1/CVLDetector">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=CVLDetector&theme=buefy" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=CVLDetector&theme=buefy"
+                                                    alt="https://github.com/breadrock1/CVLDetector" align="center" />
   </a>
   
   <a href="https://github.com/breadrock1/rlisp">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=rlisp&theme=buefy" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=rlisp&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/rlisp" align="center" />
   </a>
 </div>
 
@@ -160,7 +162,8 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center">
   <a href="https://github.com/breadrock1/simplify-decorators">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/simplify-decorators" align="center" />
   </a>
 </div>
 
@@ -168,7 +171,8 @@ I'm a man of varied attainments which trying envolving into **system programming
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&theme=radical&no-frame=false&no-bg=true&margin-w=4" 
+                                                    alt="There are my trophies..." />
 </div>
 
 
@@ -176,30 +180,37 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center" width=100>
   <a href="https://github.com/breadrock1" target="_blank">
-  <img src=https://img.shields.io/badge/github-breadrock1-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-breadrock1-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt="https://github.com/breadrock1" style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://twitter.com/breadrock1" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-breadrock1-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/twitter-breadrock1-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white alt="https://twitter.com/breadrock1" style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://t.me/sudo_udo" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@sudo_udo-33A8E3?&style=plastic&logo=telegram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Telegram-@sudo_udo-33A8E3?&style=plastic&logo=telegram&logoColor=white" alt="https://t.me/sudo_udo" style="margin-bottom: 5px;" />
   </a>
   
   <a href="mailto:breadrock1@gmail.com?Subject=What's up bro!" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-breadrock1-D14836?style=plastic&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  
-  <a href="https://www.buymeacoffee.com/breadrock1Y" target="_blank" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=plastic&logo=buymeacoffee" alt="buymeacoffee" />
-  </a>
-
-  <a href="https://leetcode.com/breadrock1" target="_blank" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/LeetCode-breadrock1-000000?style=plastice&logo=LeetCode" alt="buymeacoffee" />
+  <img src="https://img.shields.io/badge/Gmail-breadrock1-D14836?style=plastic&logo=gmail&logoColor=white" alt="mailto:breadrock1@gmail.com" style="margin-bottom: 5px;" />
   </a>
 </div>
 
+<div align="center" width=100>
+  <a href="https://leetcode.com/breadrock1" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/LeetCode-breadrock1-000000?style=plastice&logo=LeetCode" alt="https://leetcode.com/breadrock1" style="margin-bottom: 5px;" />
+  </a>                                              
+                                                    
+  <a href="https://www.codewars.com/users/breadrock1" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Codewars-breadrock1-B1361E?style=plastic&logo=Codewars&logoColor=white" alt="https://www.codewars.com/users/breadrock1" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<div align="center" width=100>
+  <a href="https://www.buymeacoffee.com/breadrock1Y" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=plastic&logo=buymeacoffee" alt="https://www.buymeacoffee.com/breadrock1Y" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 ---
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
