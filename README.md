@@ -138,8 +138,8 @@ I'm a man of varied attainments which trying envolving into **system programming
 </br>
 
 <div align="center">
-  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&hide=Jupyter%20Notebook&hide_border=true&layout=compact" width="320" />
+  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" width="320" />
   </a>
 </div>
 
