@@ -162,7 +162,7 @@ I'm a man of varied attainments which trying envolving into **system programming
   <a href="https://github.com/breadrock1/simplify-decorators">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" />
   </a>
-</dib>
+</div>
 
 
 ## 🏆 GitHub Trophies
