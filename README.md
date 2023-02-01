@@ -119,7 +119,7 @@ I'm a man of varied attainments which trying envolving into system programming s
 </div>
 </br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breadrock1&show_icons=true&locale=en&layout=compact" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breadrock1&hide=language1&show_icons=true&locale=en&layout=compact" alt="" />
 </div>
 
 </div>
