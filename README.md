@@ -144,7 +144,7 @@ I'm a man of varied attainments which trying envolving into **system programming
 </div>
 
 
-## 🏡 Working at now
+## 🏡 Now i'm working on
 
 <div align="center">
   <a href="https://github.com/breadrock1/CVLDetector">
