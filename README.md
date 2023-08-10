@@ -118,8 +118,8 @@ I'm a man of varied attainments which trying envolving into **system programming
 ## 🧮 GitHub Stats:
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/breadrock1/breadrock1/output/github-contribution-grid-snake.svg" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/breadrock1/breadrock1/output/github-contribution-grid-snake.svg" />
+  <a href="https://raw.githubusercontent.com/breadrock1/breadrock1/output/github-snake.svg" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/breadrock1/breadrock1/output/github-snake.svg" />
   </a>
 </div>
 
