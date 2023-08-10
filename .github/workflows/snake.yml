@@ -3,7 +3,7 @@ name: Contribution Snake
 on:
   push:  
     branches:
-      - "master/**"
+      - "breadrock1-patch-2"
 #   schedule:
 #     - cron: "0 */24 * * *" # every 24 hours
 #   workflow_dispatch:
