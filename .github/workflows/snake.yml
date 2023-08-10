@@ -1,7 +1,9 @@
 name: Contribution Snake
 
 on:
-  push: master
+  push:  
+    branches:
+      "master"
 #   schedule:
 #     - cron: "0 */24 * * *" # every 24 hours
 #   workflow_dispatch:
