@@ -3,8 +3,8 @@
 I'm a man of varied attainments which trying envolving into **system programming** sphere. In total, I have been in the IT about 5 years during which I developed a tools for **static / dynamic** code analysis.
 
 - 🌈  I'm currently working at home. 😎
-- 🌱  I’m currently learning `Rustlang`
-- 🤔  I’m currently using `Rust` `Java/Groovy` `Python` `C\C++` `Bash` 😁
+- 🌱  I’m currently learning `Rustlang` and `Golang`
+- 🤔  I’m currently using `Rust` `Go` `Python` and `C\C++` 😁
 - ✈️  Open to Remote Job Opportunities 🍻
 - 💬  Ask me about fuzzing and code analysis!
 - ⚡   Fun fact: There is no fun! Just writing code and drinking coffee 24/7 only 😎👌
