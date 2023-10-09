@@ -34,7 +34,11 @@ I'm a man of varied attainments which trying envolving into **system programming
   </a> 
 
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="golang" width="40" height="40"/> 
+  </a>
+
+  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/> 
   </a>
 </div>
 
@@ -72,6 +76,14 @@ I'm a man of varied attainments which trying envolving into **system programming
 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
   </a>
 </div>
 
@@ -123,10 +135,6 @@ I'm a man of varied attainments which trying envolving into **system programming
   </a>
 </div>
 
-<div align="center">
-  
-</div>
-
 </br>
 
 <div align="center">
@@ -168,6 +176,11 @@ I'm a man of varied attainments which trying envolving into **system programming
   <a href="https://github.com/breadrock1/simplify-decorators">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" 
                                                     alt="https://github.com/breadrock1/simplify-decorators" align="center" />
+  </a>
+
+  <a href="https://github.com/breadrock1/docsearcher">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=docsearcher&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/docsearcher" align="center" />
   </a>
 </div>
 
