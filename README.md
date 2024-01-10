@@ -188,7 +188,7 @@ I'm a man of varied attainments which trying envolving into **system programming
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&theme=radical&no-frame=false&no-bg=true&margin-w=4" 
+  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&no-frame=false&no-bg=true&margin-w=3" 
                                                     alt="There are my trophies..." />
 </div>
 
