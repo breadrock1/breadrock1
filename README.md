@@ -178,9 +178,23 @@ I'm a man of varied attainments which trying envolving into **system programming
                                                     alt="https://github.com/breadrock1/simplify-decorators" align="center" />
   </a>
 
-  <a href="https://github.com/breadrock1/docsearcher">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=docsearcher&theme=buefy" 
-                                                    alt="https://github.com/breadrock1/docsearcher" align="center" />
+  <a href="https://github.com/breadrock1/doc-searcher">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=doc-searcher&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/doc-searcher" align="center" />
+  </a>
+</div>
+
+</br>
+
+<div align="center">
+  <a href="https://github.com/breadrock1/doc-notifier">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=doc-notifier&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/doc-notifier" align="center" />
+  </a>
+
+  <a href="https://github.com/breadrock1/SocialNetworkScraper">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=SocialNetworkScraper&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/SocialNetworkScraper" align="center" />
   </a>
 </div>
 
