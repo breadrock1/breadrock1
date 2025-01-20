@@ -154,45 +154,45 @@ I'm a man of varied attainments which trying envolving into **system programming
 </br>
 
 
-## 🏡 Now i'm working on
+## 🏡 Supporting and working on
 
 <div align="center">
   <a href="https://github.com/breadrock1/CVLDetector">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=CVLDetector&theme=buefy"
                                                     alt="https://github.com/breadrock1/CVLDetector" align="center" />
   </a>
-  
-  <a href="https://github.com/breadrock1/PyCvl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=PyCvl&theme=buefy" 
-                                                    alt="https://github.com/breadrock1/PyCvl" align="center" />
+
+  <a href="https://github.com/breadrock1/doc-watcher">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=doc-watcher&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/doc-watcher" align="center" />
   </a>
 </div>
 
 </br>
 
 <div align="center">
-  <a href="https://github.com/breadrock1/simplify-decorators">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" 
-                                                    alt="https://github.com/breadrock1/simplify-decorators" align="center" />
-  </a>
-
   <a href="https://github.com/breadrock1/doc-searcher">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=doc-searcher&theme=buefy" 
                                                     alt="https://github.com/breadrock1/doc-searcher" align="center" />
   </a>
+
+  <a href="https://github.com/breadrock1/adblock-coffee">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=adblock-coffee&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/adblock-coffee" align="center" />
+  </a>
 </div>
 
 </br>
 
 <div align="center">
-  <a href="https://github.com/breadrock1/doc-notifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=doc-notifier&theme=buefy" 
-                                                    alt="https://github.com/breadrock1/doc-notifier" align="center" />
+  <a href="https://github.com/breadrock1/news-rss">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=news-rss&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/news-rss" align="center" />
   </a>
-
-  <a href="https://github.com/breadrock1/SocialNetworkScraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=SocialNetworkScraper&theme=buefy" 
-                                                    alt="https://github.com/breadrock1/SocialNetworkScraper" align="center" />
+  
+  <a href="https://github.com/breadrock1/news-weeder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=news-weeder&theme=buefy" 
+                                                    alt="https://github.com/breadrock1/news-weeder" align="center" />
   </a>
 </div>
 
