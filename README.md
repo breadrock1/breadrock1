@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bread White</h1>
 
-I'm a man of varied attainments which trying envolving into **system programming** sphere. In total, I have been in the IT about 5 years during which I developed a tools for **static / dynamic** code analysis.
+I'm a man of varied attainments which trying envolving into **system programming** sphere. In total, I have been in the IT about 7 years during which I developed a tools for **static / dynamic** code analysis.
 
 - 🌈  I'm currently working at home. 😎
 - 🌱  I’m currently learning `Rustlang` and `Golang`
@@ -54,8 +54,8 @@ I'm a man of varied attainments which trying envolving into **system programming
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  <a href="https://github.com/fastapi" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="fastapi" width="40" height="40"/> 
   </a>
 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
@@ -115,6 +115,10 @@ I'm a man of varied attainments which trying envolving into **system programming
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
 
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+  <img src="https://img.icons8.com/color/200/kubernetes.png" alt="kubernetes" width="40" height="40"/> 
+  </a>
+
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a>
@@ -139,33 +143,27 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" height="200" width="380" />
   </a>
   
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=breadrock1&show_icons=true&locale=en" rel="noreferrer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=breadrock1&show_icons=true&locale=en" width="400" />
+  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" height="200" />
   </a>
 </div>
 
 </br>
-
-<div align="center">
-  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" width="320" />
-  </a>
-</div>
 
 
 ## 🏡 Now i'm working on
 
 <div align="center">
   <a href="https://github.com/breadrock1/CVLDetector">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=CVLDetector&theme=buefy"
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=CVLDetector&theme=buefy"
                                                     alt="https://github.com/breadrock1/CVLDetector" align="center" />
   </a>
   
   <a href="https://github.com/breadrock1/PyCvl">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=PyCvl&theme=buefy" 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=PyCvl&theme=buefy" 
                                                     alt="https://github.com/breadrock1/PyCvl" align="center" />
   </a>
 </div>
@@ -174,12 +172,12 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center">
   <a href="https://github.com/breadrock1/simplify-decorators">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=simplify-decorators&theme=buefy" 
                                                     alt="https://github.com/breadrock1/simplify-decorators" align="center" />
   </a>
 
   <a href="https://github.com/breadrock1/doc-searcher">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=doc-searcher&theme=buefy" 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=doc-searcher&theme=buefy" 
                                                     alt="https://github.com/breadrock1/doc-searcher" align="center" />
   </a>
 </div>
@@ -188,12 +186,12 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center">
   <a href="https://github.com/breadrock1/doc-notifier">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=doc-notifier&theme=buefy" 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=doc-notifier&theme=buefy" 
                                                     alt="https://github.com/breadrock1/doc-notifier" align="center" />
   </a>
 
   <a href="https://github.com/breadrock1/SocialNetworkScraper">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=breadrock1&repo=SocialNetworkScraper&theme=buefy" 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=SocialNetworkScraper&theme=buefy" 
                                                     alt="https://github.com/breadrock1/SocialNetworkScraper" align="center" />
   </a>
 </div>
@@ -202,8 +200,7 @@ I'm a man of varied attainments which trying envolving into **system programming
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&no-frame=false&no-bg=true&margin-w=3" 
-                                                    alt="There are my trophies..." />
+  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&no-frame=false&no-bg=true&margin-w=3" alt="There are my trophies..." />
 </div>
 
 
@@ -211,7 +208,8 @@ I'm a man of varied attainments which trying envolving into **system programming
 
 <div align="center" width=100>
   <a href="https://github.com/breadrock1" target="_blank">
-  <img src=https://img.shields.io/badge/github-breadrock1-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt="https://github.com/breadrock1" style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-breadrock1-%2324292e.svg?&style=plastic&logo=github&logoColor=white 
+    alt="https://github.com/breadrock1" style="margin-bottom: 5px;" />
   </a>
   
   <a href="https://twitter.com/breadrock1" target="_blank">
