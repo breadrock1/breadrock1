@@ -143,67 +143,24 @@ Currently, I am particularly interested in system architecture, in particular, i
 ## 🧮 GitHub Stats:
 
 <div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadrock1&theme=github" rel="noreferrer">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breadrock1&theme=github" alt="Profile stats" />
+  </a>
+  
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=breadrock1&theme=github" rel="noreferrer" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=breadrock1&theme=github" alt="Top Languages stats" />
+  </a>
+</div>
+
+</br>
+
+<div align="center">
   <a href="https://github.com/breadrock1/breadrock1/blob/output/github-contribution-grid-snake.svg" rel="noreferrer">
   <img src="https://github.com/breadrock1/breadrock1/blob/output/github-contribution-grid-snake.svg"> 
   </a>
 </div>
 
 </br>
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=breadrock1&show_icons=true&locale=en" height="200" width="380" />
-  </a>
-  
-  <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" rel="noreferrer" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breadrock1&langs_count=7&hide=Jupyter%20Notebook&hide_border=true&layout=compact" alt="Top Languages stats" height="200" />
-  </a>
-</div>
-
-</br>
-
-
-## 🏡 Supporting and working on
-
-<div align="center">
-   <a href="https://github.com/breadrock1/CVLCore">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=CVLCore&theme=buefy" 
-          alt="https://github.com/breadrock1/CVLCore" align="center" />
-   </a>
-
-   <a href="https://github.com/breadrock1/PyCvl">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=PyCvl&theme=buefy" 
-          alt="https://github.com/breadrock1/PyCvl" align="center" />
-   </a>
-</div>
-
-</br>
-
-<div align="center">
-   <a href="https://github.com/breadrock1/doc-searcher">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=doc-searcher&theme=buefy" 
-          alt="https://github.com/breadrock1/doc-searcher" align="center" />
-   </a>
-
-   <a href="https://github.com/breadrock1/watchtower">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=watchtower&theme=buefy" 
-          alt="https://github.com/breadrock1/watchtower" align="center" />
-   </a>
-</div>
-
-</br>
-
-<div align="center">
-   <a href="https://github.com/breadrock1/adblock-coffee">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=adblock-coffee&theme=buefy" 
-          alt="https://github.com/breadrock1/adblock-coffee" align="center" />
-   </a>
- 
-   <a href="https://github.com/breadrock1/news-rss">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=breadrock1&repo=news-rss&theme=buefy" 
-          alt="https://github.com/breadrock1/news-rss" align="center" />
-   </a>
-</div>
 
 
 ## 🏆 GitHub Trophies
