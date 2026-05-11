@@ -58,10 +58,6 @@ Currently, I am particularly interested in system architecture, in particular, i
     alt="https://github.com/breadrock1" style="margin-bottom: 5px;" />
   </a>
   
-  <a href="https://twitter.com/breadrock1" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-breadrock1-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white alt="https://twitter.com/breadrock1" style="margin-bottom: 5px;" />
-  </a>
-  
   <a href="https://t.me/sudo_udo" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@sudo_udo-33A8E3?&style=plastic&logo=telegram&logoColor=white" alt="https://t.me/sudo_udo" style="margin-bottom: 5px;" />
   </a>
@@ -76,11 +72,6 @@ Currently, I am particularly interested in system architecture, in particular, i
   <img src="https://img.shields.io/badge/LeetCode-breadrock1-000000?style=plastice&logo=LeetCode" alt="https://leetcode.com/breadrock1" style="margin-bottom: 5px;" />
   </a>                                              
                                                     
-  <a href="https://www.codewars.com/users/breadrock1" target="_blank" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Codewars-breadrock1-B1361E?style=plastic&logo=Codewars&logoColor=white" alt="https://www.codewars.com/users/breadrock1" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
 <div align="center" width=100>
   <a href="https://www.buymeacoffee.com/breadrock1Y" target="_blank" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=plastic&logo=buymeacoffee" alt="https://www.buymeacoffee.com/breadrock1Y" style="margin-bottom: 5px;" />
