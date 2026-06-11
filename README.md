@@ -46,7 +46,7 @@ Currently, I am particularly interested in system architecture, in particular, i
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=breadrock1&no-frame=false&no-bg=true&margin-w=3" alt="There are my trophies..." />
+  <img src="https://github-trophies.vercel.app/?username=breadrock1&no-frame=false&no-bg=true&margin-w=3" alt="There are my trophies..." />
 </div>
 
 
